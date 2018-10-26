@@ -20,6 +20,7 @@ a {
   text-decoration: none;
   background:rgba(0,0,0,0.2);
   padding:20px 5px;
+  line-height: 0;
   display: inline-block;
   width: 100%;
   text-align: center;
